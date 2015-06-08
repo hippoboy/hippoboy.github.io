@@ -5,7 +5,7 @@ title: About
 
 
 ###关于我
-网名hippoby
+
 现在是一名 PHP 的攻城狮，咳.咳..程序猿...
 
 喜欢发呆，就好像突然被Dementor吸走了一样...
