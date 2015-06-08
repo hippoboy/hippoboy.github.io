@@ -8,14 +8,14 @@ encoding:         "utf-8"
 permalink:        pretty
 
 # Setup
-title:            HuS
-tagline:          'Time is limited, To be a better man'
-description:      'Hello,World! Here is my personal weblog about technology and life.'
+title:            两点客
+tagline:          '夜已深,梦未眠.'
+description:      '两点,奋斗不停!'
 url:              http://shelldone.com
 
 author:
-  name:           'SooHu'
-  url:            https://github.com/SooHu
+  name:           'SunTengfei'
+  url:            https://github.com/
 
 paginate:         5
 
@@ -26,4 +26,4 @@ version:          1.0.0
 comments :
     provider : duoshuo
     duoshuo :
-      short_name : soohu
+      short_name : hippoboy
